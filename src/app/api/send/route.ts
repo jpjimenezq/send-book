@@ -3,7 +3,7 @@ import { NextResponse } from "next/server";
 import { Resend } from "resend";
 import { pool } from "@/lib/db";
 
-const resend = new Resend("re_c877tpH6_8RgJaetk95P4t3yYeLkyzjeX");
+const resend = new Resend(process.env.RESEND_API_KEY);
 
 export async function POST(request: Request) {
   try {

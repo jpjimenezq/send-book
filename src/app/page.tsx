@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import { pool } from "@/lib/db.js";
 
 function HomePage() {
   const [name, setName] = useState("");
