@@ -1,8 +1,6 @@
 # Send Books
 
 ## Descripción
-[Breve descripción del proyecto.]
-
 Este proyecto es una landing page que permite poder proporcionar datos como *nombre* y *email* para el envio de un libro proporcionado por **CodeGame**.
 
 ## Tecnologías Utilizadas
