@@ -43,3 +43,6 @@ Luego de realizacion la instalacion y iniciar la aplicacion, para acceder a la p
 - `/src/app/api/send` - Contiene la API
 - `/src/app/component` - Contiene los componentes de la aplicacion (template del email a enviar)
 - `/lib` - Contiene la conexion a la base de datos
+
+## Licencia
+Este proyecto está licenciado bajo la **CodeGame**.
